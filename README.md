@@ -36,12 +36,12 @@ Fibonacci-Calculator/
 
 ## Preview
 ## User Interface
-![UI](let's -make-a-deal/preview/ui-preview.png).
+![UI](lets-make-a-deal/preview/ui-preview.png).
 
 ## Gameplay Examples
 | Easy (3 doors) | Medium (5 doors) | Hard (7 doors) | Final Result |
 |----------------|------------------|----------------|--------------|
-| ![Easy](let's -make-a-deal/preview/easy-preview.png) | ![Medium](let's -make-a-deal/preview/medium-preview.png) | ![Hard](let's -make-a-deal/preview/hard-preview.png) | ![Final](let's -make-a-deal/preview/final-result.png) |
+| ![Easy](lets-make-a-deal/preview/easy-preview.png) | ![Medium](lets-make-a-deal/preview/medium-preview.png) | ![Hard](lets-make-a-deal/preview/hard-preview.png) | ![Final](lets-make-a-deal/preview/final-result.png) |
 
 ## Flowchart
 The following flowchart shows the core logic of the game:
